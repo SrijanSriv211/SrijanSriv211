@@ -11,6 +11,7 @@ I'm currently learning the following:
 - Game/Game Engine Developement
 - Web Developement
 - C++
+
 and much more.
 
 ## Fun Facts

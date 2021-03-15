@@ -12,7 +12,7 @@ I'm currently learning the following:
 - Web Developement
 - C++
 
-and much more.
+and much more...
 
 ## Fun Facts
 - I custom designed my profile pic!

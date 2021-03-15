@@ -4,7 +4,7 @@
 ## About
 I am an Indian who loves to work on crazy projects such as **ARTIFICIAL INTELLIGENCE**, **GAME ENGINES**, **SEARCH ENGINES (LIKE GOOGLE)** and much more only use **PROGRAMMING**. I also make Games and Videos on YouTube.
 
-You can find my channel [here](https://www.youtube.com/channel/UCrphqZNc_r-KsOTeTKH5hwA?sub_confirmation=1).
+You can find my YouTube Channel [here](https://www.youtube.com/channel/UCrphqZNc_r-KsOTeTKH5hwA?sub_confirmation=1).
 
 ## What I'm Currently Learning?
 I'm currently learning the following:

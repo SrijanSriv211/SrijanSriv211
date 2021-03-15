@@ -11,8 +11,6 @@ I'm currently learning the following:
 - Game/Game Engine Developement
 - Web Developement
 - C++
--->
-
 and much more.
 
 ## Fun Facts
@@ -21,4 +19,3 @@ and much more.
 - I started programming at the age of 10!
 - My very first programming language was [Scratch](https://scratch.mit.edu)!
 - My primary programming language is Python and my secondary programming language is C++!
--->

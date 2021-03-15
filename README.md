@@ -6,23 +6,12 @@ I am an Indian who loves to work on crazy projects such as **ARTIFICIAL INTELLIG
 
 You can find my channel [here](https://www.youtube.com/channel/UCrphqZNc_r-KsOTeTKH5hwA?sub_confirmation=1).
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ## What I'm Currently Learning?
 I'm currently learning the following:
 - Game/Game Engine Developement
 - Web Developement
 - C++
+-->
 
 and much more.
 
@@ -32,3 +21,4 @@ and much more.
 - I started programming at the age of 10!
 - My very first programming language was [Scratch](https://scratch.mit.edu)!
 - My primary programming language is Python and my secondary programming language is C++!
+-->

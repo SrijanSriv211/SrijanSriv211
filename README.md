@@ -19,4 +19,4 @@ and much more.
 - I wanna become a mechanical engineer!
 - I started programming at the age of 10!
 - My very first programming language was [Scratch](https://scratch.mit.edu)!
-- My primary programming language is Python and my secondary programming language is C++!
+- My primary programming language is Python and my secondary programming language is C++.

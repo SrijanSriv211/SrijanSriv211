@@ -1,6 +1,8 @@
 # Light-Lens
 **Hi! Welcome to my Github page!**
 
+*NOTE: Due to some technical issues i will not be able to update any of my repositories on my own. So please don't think that my projects just went abandunt. I'm working on the fix (The problem is related to my computer).*
+
 ## About
 I am an Indian who loves to work on crazy projects such as **ARTIFICIAL INTELLIGENCE**, **GAME ENGINES**, **SEARCH ENGINES (LIKE GOOGLE)** and much more using **PROGRAMMING**. I also make Games and Videos on YouTube.
 

@@ -35,7 +35,7 @@ and much more...
 
 Check my other [**Github Repositories**](https://github.com/Light-Lens?tab=repositories).
 
-## Following Things I'm Learning:
+## Following Things I'm Currently Learning:
 - C++
 
 - Dotnet Core - C#

@@ -1,37 +1,47 @@
 # Light-Lens
-**Hi! Welcome to my Github page!**
+Hi! I am an Indian who Loves to Work on Crazy Projects using **PROGRAMMING**.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Light-Lens&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+## My Github Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Light-Lens&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![Light-Lens's GitHub stats](https://github-readme-stats.vercel.app/api?username=Light-Lens&theme=tokyonight&show_icons=true&hide_border=true)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Light-Lens&hide=issues,contribs,prs&theme=radical)
+## About me
+I'm a Self-Taught Programmer.<br>
+I wanna become a mechanical engineer.<br>
+I started programming at the age of 10.<br>
+I'm typically interested in **AI**, **Game Engines**, **Search Engines** and many more.
 
-## About
-I am an Indian who loves to work on crazy projects such as **ARTIFICIAL INTELLIGENCE**, **GAME ENGINES**, **SEARCH ENGINES (LIKE GOOGLE)** and much more using **PROGRAMMING**. I also make Games and Videos on YouTube.
+## Contact me
+- [**Gmail**](QCoreNest@gmail.com)
 
-You can find my YouTube Channel [here](https://www.youtube.com/channel/UCrphqZNc_r-KsOTeTKH5hwA?sub_confirmation=1).
+- [**Itch**](https://superstar-games.itch.io)
 
+- [**YouTube**](https://www.youtube.com/channel/UCrphqZNc_r-KsOTeTKH5hwA?sub_confirmation=1)
 
-## What I'm Currently Working On?
-I'm currently working on the following projects:
-- [Glass](https://github.com/Light-Lens/Glass) Programming Language.
-- [Studybyte](https://github.com/Light-Lens/Studybyte) Search-engine.
-- [Leaf](https://github.com/Light-Lens/Leaf) Webbrowser.
-- [AOs](https://github.com/Light-Lens/AOs) (A Terminal based Operating System).
+- [**Scratch**](https://scratch.mit.edu/users/SuperStarIndustries) (Scratch was my very lang, i learned)
 
-and much more...<br>
-Just Click [here](https://github.com/Light-Lens?tab=repositories&q=&type=source&language=) to see my other Github Repositories.
+<hr>
+<h4 align=center>A bit more About me</h4>
+<hr>
 
-## What I'm Currently Learning?
-I'm currently learning the following:
-- Game/Game Engine Developement
-- Web Developement
-- C++
+## Following Projects I'm Currently Working On:
+- [**AOs**](https://github.com/Light-Lens/AOs)
+
+- [**Glass**](https://github.com/Light-Lens/Glass)
+
+- [**Studybyte**](https://github.com/Light-Lens/Studybyte)
 
 and much more...
 
-## Fun Facts
-- I custom designed my profile pic!
-- I wanna become a mechanical engineer!
-- I started programming at the age of 10!
-- My very first programming language was [Scratch](https://scratch.mit.edu)!
-- My primary programming language is Python and my secondary programming language is C++.
+Check my other [**Github Repositories**](https://github.com/Light-Lens?tab=repositories).
+
+## Following Things I'm Learning:
+- C++
+
+- Dotnet Core - C#
+
+- Game/Game Engine Developement
+
+- Machine Learning/Deep Learning in general with Python
+
+and a bit more...

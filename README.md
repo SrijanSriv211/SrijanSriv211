@@ -14,22 +14,22 @@ I'm typically interested in **AI**, **Game Engines**, **Search Engines** and man
 ## Contact me
 - [**Gmail**](QCoreNest@gmail.com)
 
-- [**Itch**](https://superstar-games.itch.io)
-
 - [**YouTube**](https://www.youtube.com/channel/UCrphqZNc_r-KsOTeTKH5hwA?sub_confirmation=1)
 
-- [**Scratch**](https://scratch.mit.edu/users/SuperStarIndustries) (Scratch was my very lang, i learned)
+- [**Itch**](https://superstar-games.itch.io)
+
+- [**Scratch**](https://scratch.mit.edu/users/SuperStarIndustries)
 
 <hr>
 <h4 align=center>A bit more About me</h4>
 <hr>
 
 ## Following Projects I'm Currently Working On:
-- [**AOs**](https://github.com/Light-Lens/AOs)
-
 - [**Glass**](https://github.com/Light-Lens/Glass)
 
 - [**Studybyte**](https://github.com/Light-Lens/Studybyte)
+
+- [**AOs**](https://github.com/Light-Lens/AOs)
 
 and much more...
 

@@ -1,5 +1,6 @@
 # Light-Lens
-Hi! I am an Indian who Loves to Work on Crazy Projects using **PROGRAMMING**.
+## Hi!👋
+I am an Indian who Loves to Work on Crazy Projects using **PROGRAMMING**.
 
 ## My Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Light-Lens&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -31,6 +32,10 @@ I'm typically interested in **AI**, **Game Engines**, **Search Engines** and man
 
 - [**AOs**](https://github.com/Light-Lens/AOs)
 
+- [**Project-Lens**](https://github.com/Light-Lens/Project-Lens)
+
+- [**Leaf**](https://github.com/Light-Lens/Leaf)
+
 and much more...
 
 Check my other [**Github Repositories**](https://github.com/Light-Lens?tab=repositories).
@@ -45,3 +50,6 @@ Check my other [**Github Repositories**](https://github.com/Light-Lens?tab=repos
 - Machine Learning/Deep Learning in general with Python
 
 and a bit more...
+
+<hr>
+<h1>Thanks for your **AMAZING** support🔥🔥🔥</h1>

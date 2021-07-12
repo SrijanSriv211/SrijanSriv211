@@ -43,7 +43,7 @@ Check my other [**Github Repositories**](https://github.com/Light-Lens?tab=repos
 ## Following Things I'm Currently Learning:
 - C++
 
-- Dotnet Core - C#
+- <strike>Dotnet Core - C#</strike>
 
 - Game/Game Engine Developement
 

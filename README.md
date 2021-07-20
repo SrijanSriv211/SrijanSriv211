@@ -53,9 +53,9 @@ Check my other [**Github Repositories**](https://github.com/Light-Lens?tab=repos
 ## Following Things I'm Currently Learning:
 - C++
 
-- <strike>Dotnet Core - C#</strike>
+- ~~Dotnet Core - C#~~
 
-- Game/Game Engine Developement
+- ~~Game/Game Engine Developement~~
 
 - Machine Learning/Deep Learning in general with Python
 

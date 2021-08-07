@@ -38,14 +38,6 @@ I'm typically interested in **AI**, **Game Engines**, **Search Engines** and man
 
 - [**Filer**](https://github.com/Light-Lens/Filer)
 
-- [**PassGen**](https://github.com/Light-Lens/PassGen)
-
-- [**Clear-Clutter**](https://github.com/Light-Lens/Clear-Clutter)
-
-- [**Oxygen-Chatbot**](https://github.com/Light-Lens/Oxygen-Chatbot)
-
-- [**Rock-Paper-Scissors**](https://github.com/Light-Lens/Rock-Paper-Scissors_Game)
-
 and much more...
 
 Check my other [**Github Repositories**](https://github.com/Light-Lens?tab=repositories).

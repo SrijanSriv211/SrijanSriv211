@@ -2,7 +2,7 @@
 ## Hi!👋
 I am an Indian who Loves to Work on Crazy Projects using **PROGRAMMING**.
 
-***NOTE: I will be busy till September 10 due to my EXAMS, so i might or may not be much active on GitHub. Hope you understand 😀***
+***NOTE: I will be busy till September 10 due to my EXAMS, so i may or might not be much active on GitHub. Hope you understand 😀***
 
 ## My Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Light-Lens&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)

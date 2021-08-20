@@ -34,7 +34,7 @@ I'm typically interested in **AI**, **Game Engines**, **Search Engines** and man
 
 - [**AOs**](https://github.com/Light-Lens/AOs)
 
-- [**Project-Lens**](https://github.com/Light-Lens/Project-Lens)
+- [**Project-Lens**](https://github.com/users/Light-Lens/projects/1)
 
 - [**Leaf**](https://github.com/Light-Lens/Leaf)
 

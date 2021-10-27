@@ -17,6 +17,8 @@ I'm typically interested in **AI**, **Game Engines**, **Search Engines** and man
 
 - [**YouTube**](https://www.youtube.com/channel/UCrphqZNc_r-KsOTeTKH5hwA?sub_confirmation=1)
 
+- [**Instagram**](https://www.instagram.com/srijan_ocn72/)
+
 - [**Itch**](https://superstar-games.itch.io)
 
 - [**Scratch**](https://scratch.mit.edu/users/SuperStarIndustries)
@@ -32,24 +34,18 @@ I'm typically interested in **AI**, **Game Engines**, **Search Engines** and man
 
 - [**AOs**](https://github.com/Light-Lens/AOs)
 
-- [**Project-Lens**](https://github.com/Light-Lens?tab=projects)
-
-- [**Leaf**](https://github.com/Light-Lens/Leaf)
-
-- [**Filer**](https://github.com/Light-Lens/Filer)
+- [**Hexa**](https://github.com/Light-Lens/Hexa)
 
 and much more...
 
 Check my other [**Github Repositories**](https://github.com/Light-Lens?tab=repositories).
 
 ## Following Things I'm Currently Learning:
-- ~~C++~~
+- C++
 
-- ~~Dotnet Core - C#~~
+- Game Developement
 
-- ~~Game/Game Engine Developement~~
-
-- Machine Learning/Deep Learning in general with Python
+- Machine Learning with Python
 
 and a bit more...
 

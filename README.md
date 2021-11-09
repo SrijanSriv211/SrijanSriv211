@@ -8,9 +8,9 @@ I am an Indian who Loves to Work on Crazy Projects using **PROGRAMMING**.
 
 ## About me
 I'm a Self-Taught Programmer.<br>
-I wanna become a mechanical engineer.<br>
+I wanna be a mechanical engineer.<br>
 I started programming at the age of 10.<br>
-I'm typically interested in **AI**, **Game Engines**, **Search Engines** and many more.
+I'm typically interested in **AI**, **Game Engines** and **Search Engines**.
 
 ## Contact me
 - [**Gmail**](QCoreNest@gmail.com)

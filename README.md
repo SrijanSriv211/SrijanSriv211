@@ -42,11 +42,12 @@ I am an Indian who Loves to Work on Crazy Programming Projects.
 ---
 
 ### Following Things I'm Currently Learning
+
 - C++
 - Game Developement
 - Machine Learning
 
-### Following Projects I'm Currently Working On:
+### Following Projects I'm Currently Working On
 
 - [Glass](https://github.com/Light-Lens/Glass)
 - [Studybyte](https://github.com/Light-Lens/Studybyte)

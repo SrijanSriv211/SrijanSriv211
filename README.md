@@ -43,8 +43,7 @@ I am an Indian who Loves to Work on Crazy Programming Projects.
 
 ### Following Things I'm Currently Learning
 
-- C++
-- Game Developement
+- Game Engine Developement
 - Machine Learning
 
 ### Following Projects I'm Currently Working On

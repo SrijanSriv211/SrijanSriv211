@@ -56,7 +56,7 @@ I am an Indian who Loves to Work on Crazy Programming Projects.
 [GameLink]: https://superstar-games.itch.io
 [AIVideo]: https://www.youtube.com/watch?v=AuThE5bxpDE
 [Website]: https://uscontent.blogspot.com/
-[YouTube]: https://www.youtube.com/channel/UCrphqZNc_r-KsOTeTKH5hwA
+[YouTube]: https://www.youtube.com/c/OnestateCoding
 [Instagram]: https://www.instagram.com/srijansrivastava72/
 [Scratch]: https://scratch.mit.edu/users/SuperStarIndustries
 [Itch]: https://superstar-games.itch.io

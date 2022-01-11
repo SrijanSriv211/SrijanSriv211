@@ -6,7 +6,7 @@ I am an Indian who Loves to Work on Crazy Programming Projects.
 
 ## I'm a Student, YouTube, Gamer and Self-Taught Programmer!
 
-- 🔭 I'm typically interested in [AI][AIVideo] and Games
+- 🔭 I'm typically interested in [AI][AIVideo] and [Games][GameLink]
 - 🌱 I wanna be a mechanical engineer
 - 👯 I'm looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
@@ -53,9 +53,10 @@ I am an Indian who Loves to Work on Crazy Programming Projects.
 - [AOs](https://github.com/Light-Lens/AOs)
 - [Hexa](https://github.com/Light-Lens/Hexa)
 
+[GameLink]: https://superstar-games.itch.io
 [AIVideo]: https://www.youtube.com/watch?v=AuThE5bxpDE
 [Website]: https://uscontent.blogspot.com/
 [YouTube]: https://www.youtube.com/channel/UCrphqZNc_r-KsOTeTKH5hwA
-[Instagram]: https://www.instagram.com/srijan_ocn72/
+[Instagram]: https://www.instagram.com/srijansrivastava72/
 [Scratch]: https://scratch.mit.edu/users/SuperStarIndustries
 [Itch]: https://superstar-games.itch.io

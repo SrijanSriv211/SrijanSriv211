@@ -14,9 +14,9 @@ I am an Indian who Loves to Work on Crazy Programming Projects.
 
 ### Connect with me:
 
-[<img align="left" alt="uscontent.blogspot.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Website]
+[<img align="left" alt="UsContent" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Website]
 [<img align="left" alt="OneState Coding | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][YouTube]
-[<img align="left" alt="srijan_ocn72 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
+[<img align="left" alt="srijansrivastava72 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
 [<img align="left" alt="SuperStarIndustries | Scratch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/scratch.svg" />][Scratch]
 [<img align="left" alt="SuperStar Games | Itch.io" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/itch-dot-io.svg" />][Itch]
 

@@ -1,14 +1,13 @@
-# Hi there, I'm Light-Lens 👋
-I am an Indian who Loves to Work on Crazy Programming Projects.
+# Hi there 👋
+I'm an Indian who loves to challenge my skills and attempt to make complicated projects as simple as possible.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Light-Lens&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 ![Light-Lens's GitHub stats](https://github-readme-stats.vercel.app/api?username=Light-Lens&theme=tokyonight&show_icons=true&hide_border=true)
 
-## I'm a Student, YouTube, Gamer and Self-Taught Programmer!
+## I'm a Student, YouTuber, and a Self-Taught Programmer!
 
 - 🔭 I'm typically interested in [AI][AIVideo] and [Games][GameLink]
 - 🌱 I wanna be a mechanical engineer
-- 👯 I'm looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I started programming at the age of 10
 
@@ -41,17 +40,12 @@ I am an Indian who Loves to Work on Crazy Programming Projects.
 
 ---
 
-### Following Things I'm Currently Learning
-
-- Game Engine Developement
-- Machine Learning
-
 ### Following Projects I'm Currently Working On
 
 - [Glass](https://github.com/Light-Lens/Glass)
-- [Studybyte](https://github.com/Light-Lens/Studybyte)
 - [AOs](https://github.com/Light-Lens/AOs)
 - [Hexa](https://github.com/Light-Lens/Hexa)
+- [Studybyte](https://github.com/Light-Lens/Studybyte)
 
 [GameLink]: https://superstar-games.itch.io
 [AIVideo]: https://www.youtube.com/watch?v=AuThE5bxpDE

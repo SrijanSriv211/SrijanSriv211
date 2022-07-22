@@ -1,56 +1,59 @@
-# Hi there 👋
-I'm an Indian who loves to challenge my skills and attempt to make complicated projects as simple as possible.
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Light-Lens&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-![Light-Lens's GitHub stats](https://github-readme-stats.vercel.app/api?username=Light-Lens&theme=tokyonight&show_icons=true&hide_border=true)
 
-## I'm a Student, YouTuber, and a Self-Taught Programmer!
+### <div align="center">Hi there 👋 I'm Light-Lens, a self-taught programmer who loves to challenge his skills and attempts to make complicated projects as simple as possible.</div>
 
-- 🔭 I'm typically interested in [AI][AIVideo] and [Games][GameLink]
-- 🌱 I wanna be a mechanical engineer
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I started programming at the age of 10
+
+
+- 🔭 I’m currently working on [Glass](https://github.com/Light-Lens/Glass), [Hexa](https://github.com/Light-Lens/Hexa), [AOs](https://github.com/Light-Lens/AOs), [Oxygen](https://github.com/Light-Lens/Oxygen) and [Studybyte](https://light-lens.github.io/Studybyte/)
+
+
+- 🌱 Learning some Web dev, math and Machine learning
+
+
+- ❓ Human intelligence is complex
+
+
+- 🥅 Play melodious music on guitar
+
+
+- 📌 My first programming language was [Scratch](https://scratch.mit.edu/users/SuperStarIndustries/)
+
+
+
+<br/>
+
+## Github Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Light-Lens&show_icons=true&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![Light-Lens's GitHub stats](https://github-readme-stats.vercel.app/api?username=Light-Lens&show_icons=true&hide_border=true)
+
+
+
+<br/>
 
 ### Connect with me:
+<a href="https://www.youtube.com/c/OnestateCoding" target="_blank">
+<img src=https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;"/>
+</a>
 
-[<img align="left" alt="UsContent" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Website]
-[<img align="left" alt="OneState Coding | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][YouTube]
-[<img align="left" alt="srijansrivastava72 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
-[<img align="left" alt="SuperStarIndustries | Scratch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/scratch.svg" />][Scratch]
-[<img align="left" alt="SuperStar Games | Itch.io" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/itch-dot-io.svg" />][Itch]
+<a href="https://www.instagram.com/srijansrivastava72/" target="_blank">
+<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;"/>
+</a>
 
-<br />
+<a href="https://uscontent.blogspot.com/" target="_blank">
+<img src=https://img.shields.io/badge/website-%2324292e.svg?&style=for-the-badge&logo=website&logoColor=white alt=uscontent style="margin-bottom: 5px;"/>
+</a>
 
-### Languages and Tools:
+<a href="https://stackoverflow.com/users/18121288/light-lens" target="_blank">
+<img src=https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;"/>
+</a>
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
-<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<a href="https://superstar-games.itch.io" target="_blank">
+<img src=https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white alt=itch.io style="margin-bottom: 5px;"/>
+</a>
 
-<br />
-<br />
-
----
-
-### Following Projects I'm Currently Working On
-
-- [Glass](https://github.com/Light-Lens/Glass)
-- [AOs](https://github.com/Light-Lens/AOs)
-- [Hexa](https://github.com/Light-Lens/Hexa)
-- [Studybyte](https://github.com/Light-Lens/Studybyte)
-
-[GameLink]: https://superstar-games.itch.io
-[AIVideo]: https://www.youtube.com/watch?v=AuThE5bxpDE
-[Website]: https://uscontent.blogspot.com/
-[YouTube]: https://www.youtube.com/c/OnestateCoding
-[Instagram]: https://www.instagram.com/srijansrivastava72/
-[Scratch]: https://scratch.mit.edu/users/SuperStarIndustries
-[Itch]: https://superstar-games.itch.io
+<a href="https://scratch.mit.edu/users/SuperStarIndustries" target="_blank">
+<img src=https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white alt=scratch style="margin-bottom: 5px;"/>
+</a>

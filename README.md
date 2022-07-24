@@ -26,8 +26,8 @@
 <br/>
 
 ## Github Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Light-Lens&show_icons=true&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-![Light-Lens's GitHub stats](https://github-readme-stats.vercel.app/api?username=Light-Lens&show_icons=true&hide_border=true)
+[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Light-Lens&theme=github_dark&show_icons=true&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Light-Lens&theme=github_dark&show_icons=true&hide_border=true)
 
 
 

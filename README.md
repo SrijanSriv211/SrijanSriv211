@@ -50,10 +50,6 @@
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" style="margin-bottom: 5px;"/>
 </a>
 
-<a href="https://www.instagram.com/srijansrivastava72/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;"/>
-</a>
-
 <a href="mailto:srivastavavsrijan321@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="uscontent" style="margin-bottom: 5px;"/>
 </a>

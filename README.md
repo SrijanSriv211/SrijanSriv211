@@ -2,7 +2,8 @@
 
 
 <h1 align="center">Hi there 👋 I'm Light-Lens</h1>
-<h3 align="center">A self-taught programmer who loves to challenge his skills and attempts to make complicated projects as simple as possible.</h3>
+<h3 align="center">A self-taught student with a burning passion for games, game engines, and artificial intelligence.
+</h3>
 
 
 - 🔭 I’m currently working on [Glass](https://github.com/Light-Lens/Glass), [Hexa](https://github.com/Light-Lens/Hexa), [AOs](https://github.com/Light-Lens/AOs), [Oxygen](https://github.com/Light-Lens/Oxygen) and [Studybyte](https://light-lens.github.io/Studybyte/)

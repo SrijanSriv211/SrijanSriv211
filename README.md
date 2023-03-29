@@ -6,10 +6,10 @@
 </h3>
 
 
-- 🔭 I’m currently working on [Pastel](https://github.com/Light-Lens/Pastel), [Hexa](https://github.com/Light-Lens/Hexa), [AOs](https://github.com/Light-Lens/AOs), [WINTER](https://github.com/Light-Lens/WINTER) and [Studybyte](https://light-lens.github.io/Studybyte/)
+- 🔭 I’m currently working on [WINTER](https://github.com/Light-Lens/WINTER), [AOs](https://github.com/Light-Lens/AOs), [Pastel](https://github.com/Light-Lens/Pastel), [Hexa](https://github.com/Light-Lens/Hexa), and [Studybyte](https://light-lens.github.io/Studybyte/)
 
 
-- 🌱 Learning some Web dev, math and Machine learning
+- 🌱 Learning some math and deep learning
 
 
 - ❓ Human intelligence is complex

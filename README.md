@@ -2,16 +2,16 @@
 <h3 align="center">I like to be quiet, play guitar, code and just chill.</h3>
 
 
-- 🌱 Learning some math
+- 🌱 Math is FUN!
 
 
-- ❓ Humans are complex
+- ❓ Trying to make a programming language: [Pastel](https://github.com/Light-Lens/Pastel).
 
 
-- 🥅 Can play something guitar
+- 🥅 Loves playing Chess.
 
 
-- 📌 My first programming language was [Scratch](https://scratch.mit.edu/users/SuperStarIndustries/)
+- 📌 My first programming language: [Scratch](https://scratch.mit.edu/users/SuperStarIndustries/).
 
 
 

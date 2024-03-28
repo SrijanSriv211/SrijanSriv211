@@ -1,50 +1,46 @@
-<h1 align="center">Hi there 👋 I'm Light-Lens</h1>
-<h3 align="center">I like to be quiet, play guitar, code and just chill.</h3>
+# 👋 Hello, I'm Srijan Srivastava
+I like to be quiet, play guitar, code and just chill.
 
+### 🔭 I’m currently working on:
+[![WINTER](https://github-readme-stats.vercel.app/api/pin/?username=Light-Lens&repo=WINTER&theme=ayu-mirage&hide_border=true)](https://github.com/Light-Lens/WINTER)
+[![GATw](https://github-readme-stats.vercel.app/api/pin/?username=Light-Lens&repo=GAT-w&theme=ayu-mirage&hide_border=true)](https://github.com/Light-Lens/GAT-w)
+[![AOs](https://github-readme-stats.vercel.app/api/pin/?username=Light-Lens&repo=AOs&theme=ayu-mirage&hide_border=true)](https://github.com/Light-Lens/AOs)
+[![Pastel](https://github-readme-stats.vercel.app/api/pin/?username=Light-Lens&repo=Pastel&theme=ayu-mirage&hide_border=true)](https://github.com/Light-Lens/Pastel)
 
-- 🌱 Math is FUN!
+### 🌱 I’m currently learning:
+1. Some high-level Math
+2. Get better at AI and Robotics
+3. Planning to learn Rust
+4. Planning my C++ skills
 
+### ⚡ Fun fact:
+1. I love playing Chess and creating content
+2. My first programming language was [Scratch](https://scratch.mit.edu/users/SuperStarIndustries)
+3. I started coding at the age of 9
+4. I was born on 2/11/2007
 
-- ❓ Trying to make a programming language: [Pastel](https://github.com/Light-Lens/Pastel).
+---
 
+## 💻 Tech Stack
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]()
+[![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)]()
+[![CSS5](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
+[![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)]()
 
-- 🥅 Loves playing Chess.
+## 🌐 Socials
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/OnestateCoding)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/srijansrivastava72)
+[![Stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18121288/light-lens)
+[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://superstar-games.itch.io)
+[![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)](https://scratch.mit.edu/users/SuperStarIndustries)
 
+---
 
-- 📌 My first programming language: [Scratch](https://scratch.mit.edu/users/SuperStarIndustries/).
-
-
-
-<br/>
-
-## SKILLS 🛠
-<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python" style="margin-bottom: 5px;"/> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" style="margin-bottom: 5px;"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" style="margin-bottom: 5px;"/> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" style="margin-bottom: 5px;"/> <img src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white" alt="Scratch" style="margin-bottom: 5px;"/>
-
-
-
-<br/>
-
-## Connect with me:
-<a href="https://www.youtube.com/c/OnestateCoding" target="_blank">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" style="margin-bottom: 5px;"/>
-</a>
-
-<a href="mailto:srivastavavsrijan321@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="uscontent" style="margin-bottom: 5px;"/>
-</a>
-
-<a href="https://uscontent.blogspot.com/" target="_blank">
-<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="uscontent" style="margin-bottom: 5px;"/>
-</a>
-
-<a href="https://stackoverflow.com/users/18121288/light-lens" target="_blank">
-<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="stackoverflow" style="margin-bottom: 5px;"/>
-</a>
-
-<a href="https://superstar-games.itch.io" target="_blank">
-<img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch.io" style="margin-bottom: 5px;"/>
-</a>
-
-<a href="https://scratch.mit.edu/users/SuperStarIndustries" target="_blank">
-<img src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white" alt="scratch" style="margin-bottom: 5px;"/>
-</a>
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Light-Lens&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Light-Lens&theme=ayu-mirage&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Light-Lens&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true&layout=compact)

@@ -2,10 +2,10 @@
 I like to be quiet, play guitar, code and just chill.
 
 ### 🔭 I’m currently working on:
-[![WINTER](https://github-readme-stats.vercel.app/api/pin/?username=Light-Lens&repo=WINTER&theme=ayu-mirage&hide_border=true)](https://github.com/Light-Lens/WINTER)
-[![GATw](https://github-readme-stats.vercel.app/api/pin/?username=Light-Lens&repo=GAT-w&theme=ayu-mirage&hide_border=true)](https://github.com/Light-Lens/GAT-w)
-[![AOs](https://github-readme-stats.vercel.app/api/pin/?username=Light-Lens&repo=AOs&theme=ayu-mirage&hide_border=true)](https://github.com/Light-Lens/AOs)
-[![Pastel](https://github-readme-stats.vercel.app/api/pin/?username=Light-Lens&repo=Pastel&theme=ayu-mirage&hide_border=true)](https://github.com/Light-Lens/Pastel)
+[![WINTER](https://github-readme-stats.vercel.app/api/pin/?username=SrijanSriv211&repo=WINTER&theme=ayu-mirage&hide_border=true)](https://github.com/SrijanSriv211/WINTER)
+[![GATw](https://github-readme-stats.vercel.app/api/pin/?username=SrijanSriv211&repo=GAT-w&theme=ayu-mirage&hide_border=true)](https://github.com/SrijanSriv211/GAT-w)
+[![AOs](https://github-readme-stats.vercel.app/api/pin/?username=SrijanSriv211&repo=AOs&theme=ayu-mirage&hide_border=true)](https://github.com/SrijanSriv211/AOs)
+[![Pastel](https://github-readme-stats.vercel.app/api/pin/?username=SrijanSriv211&repo=Pastel&theme=ayu-mirage&hide_border=true)](https://github.com/SrijanSriv211/Pastel)
 
 ### 🌱 I’m currently learning:
 1. Some high-level Math
@@ -34,13 +34,13 @@ I like to be quiet, play guitar, code and just chill.
 ## 🌐 Socials
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/OnestateCoding)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/srijansrivastava72)
-[![Stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18121288/light-lens)
+[![Stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18121288/SrijanSriv211)
 [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://superstar-games.itch.io)
 [![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)](https://scratch.mit.edu/users/SuperStarIndustries)
 
 ---
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Light-Lens&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Light-Lens&theme=ayu-mirage&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Light-Lens&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=SrijanSriv211&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SrijanSriv211&theme=ayu-mirage&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SrijanSriv211&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true&layout=compact)

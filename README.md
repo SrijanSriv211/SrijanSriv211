@@ -4,7 +4,7 @@ I like to be quiet, play guitar, code and just chill.
 ### 🔭 I’m currently working on:
 [![WINTER](https://github-readme-stats.vercel.app/api/pin/?username=SrijanSriv211&repo=WINTER&theme=ayu-mirage&hide_border=true)](https://github.com/SrijanSriv211/WINTER)
 
-[![AOs](https://github-readme-stats.vercel.app/api/pin/?username=SrijanSriv211&repo=AOs&theme=ayu-mirage&hide_border=true)](https://github.com/SrijanSriv211/AOs)
+[![AO](https://github-readme-stats.vercel.app/api/pin/?username=SrijanSriv211&repo=AO&theme=ayu-mirage&hide_border=true)](https://github.com/SrijanSriv211/AO)
 
 ### 🌱 I’m currently learning:
 1. Some high-level Math

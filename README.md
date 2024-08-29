@@ -40,6 +40,5 @@ I like to be quiet, play guitar, code and just chill.
 ---
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SrijanSriv211&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SrijanSriv211&theme=ayu-mirage&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SrijanSriv211&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true&layout=compact)

@@ -1,11 +1,6 @@
 # 👋 Hello, I'm Srijan Srivastava
 I like to be quiet, play guitar, code and just chill.
 
-### 🔭 I’m currently working on:
-[![WINTER](https://github-readme-stats.vercel.app/api/pin/?username=SrijanSriv211&repo=WINTER&theme=ayu-mirage&hide_border=true)](https://github.com/SrijanSriv211/WINTER)
-
-[![arc](https://github-readme-stats.vercel.app/api/pin/?username=SrijanSriv211&repo=arc&theme=ayu-mirage&hide_border=true)](https://github.com/SrijanSriv211/arc)
-
 ### 🌱 I’m currently learning:
 1. Some high-level Math
 2. Get better at AI and Robotics
